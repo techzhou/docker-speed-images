@@ -1,1 +1,2 @@
+ARG ARG_VERSION
 FROM docker.elastic.co/elasticsearch/elasticsearch-oss:${ARG_VERSION}
